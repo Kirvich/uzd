@@ -1,0 +1,14 @@
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\bin\Debug\net8.0\qwerty.exe
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\bin\Debug\net8.0\qwerty.deps.json
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\bin\Debug\net8.0\qwerty.runtimeconfig.json
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\bin\Debug\net8.0\qwerty.dll
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\bin\Debug\net8.0\qwerty.pdb
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.AssemblyInfoInputs.cache
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.AssemblyInfo.cs
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.csproj.CoreCompileInputs.cache
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.dll
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\refint\qwerty.dll
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.pdb
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\qwerty.genruntimeconfig.cache
+C:\Users\kirvich\Desktop\geekbrainsGIT\qwerty\obj\Debug\net8.0\ref\qwerty.dll

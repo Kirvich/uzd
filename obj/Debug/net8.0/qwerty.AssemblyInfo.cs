@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("qwerty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f99afd079298361bfa759bc9f6d456a173ac96e")]
 [assembly: System.Reflection.AssemblyProductAttribute("qwerty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qwerty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
